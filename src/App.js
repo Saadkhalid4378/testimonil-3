@@ -19,14 +19,13 @@ function App() {
        <div>
      <LoginForm  />
      </div>
-     <div>
-
+     <div> 
+     <LoginForm  />
      </div>
      <hr/>
      <div>
       <FunctionalClock />
      </div>
-     <hr/>
      <hr/>
     <ul>
       {array.map(( item , index ) => {
