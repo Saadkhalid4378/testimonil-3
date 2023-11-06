@@ -19,8 +19,8 @@ function App() {
        <div>
      <LoginForm  />
      </div>
-     <div>
-      
+     <div> 
+     <LoginForm  />
      </div>
      <hr/>
      <div>
